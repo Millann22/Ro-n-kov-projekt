@@ -1,1 +1,1 @@
-# Ro-n-kov-projekt
+# Rocnikovy projekt
