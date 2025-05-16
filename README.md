@@ -2,6 +2,9 @@
 
 Tento ročníkový projekt je zaměřený na výměnu brzdového systému na osobním automobilu **Seat Toledo 1M z roku 2003**. Cílem projektu bylo nejen prakticky provést výměnu brzd, ale také se detailně seznámit s jejich principem fungování, různými typy brzd, jejich značením a kompatibilitou s konkrétním vozem.
 
+## 🎞 Odkaz na video
+  https://www.youtube.com/watch?v=hXC879ha9WY
+
 ## 📌 Obsah projektu
 
 - Jak fungují brzdy (princip brzdového systému)
