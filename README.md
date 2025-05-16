@@ -1,1 +1,1 @@
-# Rocnikovy projekt
+# Rocnikovy projekt - Milan Pantak S3E
